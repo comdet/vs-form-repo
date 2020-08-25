@@ -1,6 +1,7 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@vs-form",
+  "version": "0.7.17",
+  "description": "A schema-based form generator component for React using material-ui",
   "devDependencies": {
     "@material-ui/core": "^3.9.3",
     "@types/classnames": "^2.2.7",
